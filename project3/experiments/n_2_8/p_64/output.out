@@ -1,0 +1,267 @@
+Time spent for sequential multiplying two 256 by 256 matrices is 0.041301 seconds. From rank: 0
+Time spent for parallel multiplying two 256 by 256 matrices is 0.020514 seconds. From rank: 0
+Hello from 0 of 64 processors.
+Hello from 7 of 64 processors.
+Hello from 11 of 64 processors.
+Hello from 14 of 64 processors.
+Hello from 19 of 64 processors.
+Hello from 23 of 64 processors.
+Hello from 24 of 64 processors.
+Hello from 25 of 64 processors.
+Hello from 26 of 64 processors.
+Hello from 27 of 64 processors.
+Hello from 31 of 64 processors.
+Hello from 32 of 64 processors.
+Hello from 35 of 64 processors.
+Hello from 38 of 64 processors.
+Hello from 39 of 64 processors.
+Hello from 40 of 64 processors.
+Hello from 41 of 64 processors.
+Hello from 42 of 64 processors.
+Hello from 44 of 64 processors.
+Hello from 45 of 64 processors.
+Hello from 47 of 64 processors.
+Hello from 49 of 64 processors.
+Hello from 50 of 64 processors.
+Hello from 51 of 64 processors.
+Hello from 54 of 64 processors.
+Hello from 55 of 64 processors.
+Hello from 56 of 64 processors.
+Hello from 57 of 64 processors.
+Hello from 58 of 64 processors.
+Hello from 59 of 64 processors.
+Hello from 60 of 64 processors.
+Hello from 61 of 64 processors.
+Hello from 62 of 64 processors.
+Hello from 63 of 64 processors.
+Hello from 1 of 64 processors.
+Hello from 2 of 64 processors.
+Hello from 3 of 64 processors.
+Hello from 4 of 64 processors.
+Hello from 5 of 64 processors.
+Hello from 6 of 64 processors.
+Hello from 8 of 64 processors.
+Hello from 9 of 64 processors.
+Hello from 10 of 64 processors.
+Hello from 12 of 64 processors.
+Hello from 13 of 64 processors.
+Hello from 15 of 64 processors.
+Hello from 16 of 64 processors.
+Hello from 17 of 64 processors.
+Hello from 18 of 64 processors.
+Hello from 20 of 64 processors.
+Hello from 21 of 64 processors.
+Hello from 22 of 64 processors.
+Hello from 28 of 64 processors.
+Hello from 29 of 64 processors.
+Hello from 30 of 64 processors.
+Hello from 33 of 64 processors.
+Hello from 34 of 64 processors.
+Hello from 36 of 64 processors.
+Hello from 37 of 64 processors.
+Hello from 43 of 64 processors.
+Hello from 46 of 64 processors.
+Hello from 48 of 64 processors.
+Hello from 52 of 64 processors.
+Hello from 53 of 64 processors.
+Values at (0, 0): Result_seq = 3.568844e+00, Result_parallel = 3.568844e+00, Diff = 0.000000e+00
+Values at (0, 0) are close to 0. Diff: 0.000000e+00
+Values at (0, 1): Result_seq = -2.772007e-02, Result_parallel = -2.772007e-02, Diff = 0.000000e+00
+Values at (0, 1) are close to 0. Diff: 0.000000e+00
+Values at (0, 2): Result_seq = 2.486993e+00, Result_parallel = 2.486993e+00, Diff = 0.000000e+00
+Values at (0, 2) are close to 0. Diff: 0.000000e+00
+Values at (0, 3): Result_seq = -1.210659e-01, Result_parallel = -1.210659e-01, Diff = 0.000000e+00
+Values at (0, 3) are close to 0. Diff: 0.000000e+00
+Values at (0, 4): Result_seq = -5.117690e+00, Result_parallel = -5.117690e+00, Diff = 0.000000e+00
+Values at (0, 4) are close to 0. Diff: 0.000000e+00
+Values at (0, 5): Result_seq = -4.567984e-01, Result_parallel = -4.567984e-01, Diff = 0.000000e+00
+Values at (0, 5) are close to 0. Diff: 0.000000e+00
+Values at (0, 6): Result_seq = 2.659238e+00, Result_parallel = 2.659238e+00, Diff = 0.000000e+00
+Values at (0, 6) are close to 0. Diff: 0.000000e+00
+Values at (0, 7): Result_seq = -3.528386e+00, Result_parallel = -3.528386e+00, Diff = 0.000000e+00
+Values at (0, 7) are close to 0. Diff: 0.000000e+00
+Values at (0, 8): Result_seq = 6.857863e+00, Result_parallel = 6.857863e+00, Diff = 0.000000e+00
+Values at (0, 8) are close to 0. Diff: 0.000000e+00
+Values at (0, 9): Result_seq = 1.945610e+00, Result_parallel = 1.945610e+00, Diff = 0.000000e+00
+Values at (0, 9) are close to 0. Diff: 0.000000e+00
+Values at (1, 0): Result_seq = 2.944241e+00, Result_parallel = 2.944241e+00, Diff = 0.000000e+00
+Values at (1, 0) are close to 0. Diff: 0.000000e+00
+Values at (1, 1): Result_seq = 8.626896e+00, Result_parallel = 8.626896e+00, Diff = 0.000000e+00
+Values at (1, 1) are close to 0. Diff: 0.000000e+00
+Values at (1, 2): Result_seq = -4.660599e+00, Result_parallel = -4.660599e+00, Diff = 0.000000e+00
+Values at (1, 2) are close to 0. Diff: 0.000000e+00
+Values at (1, 3): Result_seq = 2.101124e+00, Result_parallel = 2.101124e+00, Diff = 0.000000e+00
+Values at (1, 3) are close to 0. Diff: 0.000000e+00
+Values at (1, 4): Result_seq = 2.181770e+00, Result_parallel = 2.181770e+00, Diff = 0.000000e+00
+Values at (1, 4) are close to 0. Diff: 0.000000e+00
+Values at (1, 5): Result_seq = -4.897511e+00, Result_parallel = -4.897511e+00, Diff = 0.000000e+00
+Values at (1, 5) are close to 0. Diff: 0.000000e+00
+Values at (1, 6): Result_seq = 3.840108e+00, Result_parallel = 3.840108e+00, Diff = 0.000000e+00
+Values at (1, 6) are close to 0. Diff: 0.000000e+00
+Values at (1, 7): Result_seq = 5.173056e+00, Result_parallel = 5.173056e+00, Diff = 0.000000e+00
+Values at (1, 7) are close to 0. Diff: 0.000000e+00
+Values at (1, 8): Result_seq = 2.525054e-01, Result_parallel = 2.525054e-01, Diff = 0.000000e+00
+Values at (1, 8) are close to 0. Diff: 0.000000e+00
+Values at (1, 9): Result_seq = 3.205004e+00, Result_parallel = 3.205004e+00, Diff = 0.000000e+00
+Values at (1, 9) are close to 0. Diff: 0.000000e+00
+Values at (2, 0): Result_seq = -3.995631e+00, Result_parallel = -3.995631e+00, Diff = 0.000000e+00
+Values at (2, 0) are close to 0. Diff: 0.000000e+00
+Values at (2, 1): Result_seq = 1.915850e+00, Result_parallel = 1.915850e+00, Diff = 0.000000e+00
+Values at (2, 1) are close to 0. Diff: 0.000000e+00
+Values at (2, 2): Result_seq = -7.240494e+00, Result_parallel = -7.240494e+00, Diff = 0.000000e+00
+Values at (2, 2) are close to 0. Diff: 0.000000e+00
+Values at (2, 3): Result_seq = 4.228303e+00, Result_parallel = 4.228303e+00, Diff = 0.000000e+00
+Values at (2, 3) are close to 0. Diff: 0.000000e+00
+Values at (2, 4): Result_seq = -6.054871e+00, Result_parallel = -6.054871e+00, Diff = 0.000000e+00
+Values at (2, 4) are close to 0. Diff: 0.000000e+00
+Values at (2, 5): Result_seq = 4.214167e+00, Result_parallel = 4.214167e+00, Diff = 0.000000e+00
+Values at (2, 5) are close to 0. Diff: 0.000000e+00
+Values at (2, 6): Result_seq = -2.975241e+00, Result_parallel = -2.975241e+00, Diff = 0.000000e+00
+Values at (2, 6) are close to 0. Diff: 0.000000e+00
+Values at (2, 7): Result_seq = -9.153894e+00, Result_parallel = -9.153894e+00, Diff = 0.000000e+00
+Values at (2, 7) are close to 0. Diff: 0.000000e+00
+Values at (2, 8): Result_seq = 1.614724e-01, Result_parallel = 1.614724e-01, Diff = 0.000000e+00
+Values at (2, 8) are close to 0. Diff: 0.000000e+00
+Values at (2, 9): Result_seq = -9.943090e-01, Result_parallel = -9.943090e-01, Diff = 0.000000e+00
+Values at (2, 9) are close to 0. Diff: 0.000000e+00
+Values at (3, 0): Result_seq = -3.690063e+00, Result_parallel = -3.690063e+00, Diff = 0.000000e+00
+Values at (3, 0) are close to 0. Diff: 0.000000e+00
+Values at (3, 1): Result_seq = -5.360376e-01, Result_parallel = -5.360376e-01, Diff = 0.000000e+00
+Values at (3, 1) are close to 0. Diff: 0.000000e+00
+Values at (3, 2): Result_seq = -2.844194e+00, Result_parallel = -2.844194e+00, Diff = 0.000000e+00
+Values at (3, 2) are close to 0. Diff: 0.000000e+00
+Values at (3, 3): Result_seq = 1.436550e+01, Result_parallel = 1.436550e+01, Diff = 0.000000e+00
+Values at (3, 3) are close to 0. Diff: 0.000000e+00
+Values at (3, 4): Result_seq = -2.624397e+00, Result_parallel = -2.624397e+00, Diff = 0.000000e+00
+Values at (3, 4) are close to 0. Diff: 0.000000e+00
+Values at (3, 5): Result_seq = -5.502702e+00, Result_parallel = -5.502702e+00, Diff = 0.000000e+00
+Values at (3, 5) are close to 0. Diff: 0.000000e+00
+Values at (3, 6): Result_seq = 9.098536e-01, Result_parallel = 9.098536e-01, Diff = 0.000000e+00
+Values at (3, 6) are close to 0. Diff: 0.000000e+00
+Values at (3, 7): Result_seq = -2.536810e+00, Result_parallel = -2.536810e+00, Diff = 0.000000e+00
+Values at (3, 7) are close to 0. Diff: 0.000000e+00
+Values at (3, 8): Result_seq = 5.423910e+00, Result_parallel = 5.423910e+00, Diff = 0.000000e+00
+Values at (3, 8) are close to 0. Diff: 0.000000e+00
+Values at (3, 9): Result_seq = 2.676650e+00, Result_parallel = 2.676650e+00, Diff = 0.000000e+00
+Values at (3, 9) are close to 0. Diff: 0.000000e+00
+Values at (4, 0): Result_seq = 5.801288e+00, Result_parallel = 5.801288e+00, Diff = 0.000000e+00
+Values at (4, 0) are close to 0. Diff: 0.000000e+00
+Values at (4, 1): Result_seq = -3.961219e+00, Result_parallel = -3.961219e+00, Diff = 0.000000e+00
+Values at (4, 1) are close to 0. Diff: 0.000000e+00
+Values at (4, 2): Result_seq = -6.757099e-01, Result_parallel = -6.757099e-01, Diff = 0.000000e+00
+Values at (4, 2) are close to 0. Diff: 0.000000e+00
+Values at (4, 3): Result_seq = 3.089649e-01, Result_parallel = 3.089649e-01, Diff = 0.000000e+00
+Values at (4, 3) are close to 0. Diff: 0.000000e+00
+Values at (4, 4): Result_seq = 3.624768e+00, Result_parallel = 3.624768e+00, Diff = 0.000000e+00
+Values at (4, 4) are close to 0. Diff: 0.000000e+00
+Values at (4, 5): Result_seq = 1.072131e+01, Result_parallel = 1.072131e+01, Diff = 0.000000e+00
+Values at (4, 5) are close to 0. Diff: 0.000000e+00
+Values at (4, 6): Result_seq = -4.188534e+00, Result_parallel = -4.188534e+00, Diff = 0.000000e+00
+Values at (4, 6) are close to 0. Diff: 0.000000e+00
+Values at (4, 7): Result_seq = -1.040500e+00, Result_parallel = -1.040500e+00, Diff = 0.000000e+00
+Values at (4, 7) are close to 0. Diff: 0.000000e+00
+Values at (4, 8): Result_seq = -6.925877e+00, Result_parallel = -6.925877e+00, Diff = 0.000000e+00
+Values at (4, 8) are close to 0. Diff: 0.000000e+00
+Values at (4, 9): Result_seq = -2.437774e+00, Result_parallel = -2.437774e+00, Diff = 0.000000e+00
+Values at (4, 9) are close to 0. Diff: 0.000000e+00
+Values at (5, 0): Result_seq = -8.923142e-01, Result_parallel = -8.923142e-01, Diff = 0.000000e+00
+Values at (5, 0) are close to 0. Diff: 0.000000e+00
+Values at (5, 1): Result_seq = 6.548297e+00, Result_parallel = 6.548297e+00, Diff = 0.000000e+00
+Values at (5, 1) are close to 0. Diff: 0.000000e+00
+Values at (5, 2): Result_seq = 2.002842e+00, Result_parallel = 2.002842e+00, Diff = 0.000000e+00
+Values at (5, 2) are close to 0. Diff: 0.000000e+00
+Values at (5, 3): Result_seq = 3.706003e+00, Result_parallel = 3.706003e+00, Diff = 0.000000e+00
+Values at (5, 3) are close to 0. Diff: 0.000000e+00
+Values at (5, 4): Result_seq = 4.326841e+00, Result_parallel = 4.326841e+00, Diff = 0.000000e+00
+Values at (5, 4) are close to 0. Diff: 0.000000e+00
+Values at (5, 5): Result_seq = -1.418833e+01, Result_parallel = -1.418833e+01, Diff = 0.000000e+00
+Values at (5, 5) are close to 0. Diff: 0.000000e+00
+Values at (5, 6): Result_seq = -3.922201e+00, Result_parallel = -3.922201e+00, Diff = 0.000000e+00
+Values at (5, 6) are close to 0. Diff: 0.000000e+00
+Values at (5, 7): Result_seq = -9.271559e+00, Result_parallel = -9.271559e+00, Diff = 0.000000e+00
+Values at (5, 7) are close to 0. Diff: 0.000000e+00
+Values at (5, 8): Result_seq = -3.373943e+00, Result_parallel = -3.373943e+00, Diff = 0.000000e+00
+Values at (5, 8) are close to 0. Diff: 0.000000e+00
+Values at (5, 9): Result_seq = -8.763074e+00, Result_parallel = -8.763074e+00, Diff = 0.000000e+00
+Values at (5, 9) are close to 0. Diff: 0.000000e+00
+Values at (6, 0): Result_seq = 4.208216e+00, Result_parallel = 4.208216e+00, Diff = 0.000000e+00
+Values at (6, 0) are close to 0. Diff: 0.000000e+00
+Values at (6, 1): Result_seq = 5.380391e+00, Result_parallel = 5.380391e+00, Diff = 0.000000e+00
+Values at (6, 1) are close to 0. Diff: 0.000000e+00
+Values at (6, 2): Result_seq = -1.288722e+00, Result_parallel = -1.288722e+00, Diff = 0.000000e+00
+Values at (6, 2) are close to 0. Diff: 0.000000e+00
+Values at (6, 3): Result_seq = 4.345651e+00, Result_parallel = 4.345651e+00, Diff = 0.000000e+00
+Values at (6, 3) are close to 0. Diff: 0.000000e+00
+Values at (6, 4): Result_seq = 2.307801e+00, Result_parallel = 2.307801e+00, Diff = 0.000000e+00
+Values at (6, 4) are close to 0. Diff: 0.000000e+00
+Values at (6, 5): Result_seq = -5.700734e+00, Result_parallel = -5.700734e+00, Diff = 0.000000e+00
+Values at (6, 5) are close to 0. Diff: 0.000000e+00
+Values at (6, 6): Result_seq = -2.896021e+00, Result_parallel = -2.896021e+00, Diff = 0.000000e+00
+Values at (6, 6) are close to 0. Diff: 0.000000e+00
+Values at (6, 7): Result_seq = -2.561669e+00, Result_parallel = -2.561669e+00, Diff = 0.000000e+00
+Values at (6, 7) are close to 0. Diff: 0.000000e+00
+Values at (6, 8): Result_seq = 3.761434e+00, Result_parallel = 3.761434e+00, Diff = 0.000000e+00
+Values at (6, 8) are close to 0. Diff: 0.000000e+00
+Values at (6, 9): Result_seq = -1.302141e+00, Result_parallel = -1.302141e+00, Diff = 0.000000e+00
+Values at (6, 9) are close to 0. Diff: 0.000000e+00
+Values at (7, 0): Result_seq = -4.548004e+00, Result_parallel = -4.548004e+00, Diff = 0.000000e+00
+Values at (7, 0) are close to 0. Diff: 0.000000e+00
+Values at (7, 1): Result_seq = -1.781496e+00, Result_parallel = -1.781496e+00, Diff = 0.000000e+00
+Values at (7, 1) are close to 0. Diff: 0.000000e+00
+Values at (7, 2): Result_seq = -4.474422e+00, Result_parallel = -4.474422e+00, Diff = 0.000000e+00
+Values at (7, 2) are close to 0. Diff: 0.000000e+00
+Values at (7, 3): Result_seq = -1.671310e+01, Result_parallel = -1.671310e+01, Diff = 0.000000e+00
+Values at (7, 3) are close to 0. Diff: 0.000000e+00
+Values at (7, 4): Result_seq = 4.143942e+00, Result_parallel = 4.143942e+00, Diff = 0.000000e+00
+Values at (7, 4) are close to 0. Diff: 0.000000e+00
+Values at (7, 5): Result_seq = 4.050963e+00, Result_parallel = 4.050963e+00, Diff = 0.000000e+00
+Values at (7, 5) are close to 0. Diff: 0.000000e+00
+Values at (7, 6): Result_seq = 4.076734e+00, Result_parallel = 4.076734e+00, Diff = 0.000000e+00
+Values at (7, 6) are close to 0. Diff: 0.000000e+00
+Values at (7, 7): Result_seq = 7.404514e-01, Result_parallel = 7.404514e-01, Diff = 0.000000e+00
+Values at (7, 7) are close to 0. Diff: 0.000000e+00
+Values at (7, 8): Result_seq = -3.313872e+00, Result_parallel = -3.313872e+00, Diff = 0.000000e+00
+Values at (7, 8) are close to 0. Diff: 0.000000e+00
+Values at (7, 9): Result_seq = -2.810373e+00, Result_parallel = -2.810373e+00, Diff = 0.000000e+00
+Values at (7, 9) are close to 0. Diff: 0.000000e+00
+Values at (8, 0): Result_seq = -9.873266e-01, Result_parallel = -9.873266e-01, Diff = 0.000000e+00
+Values at (8, 0) are close to 0. Diff: 0.000000e+00
+Values at (8, 1): Result_seq = -2.317181e+00, Result_parallel = -2.317181e+00, Diff = 0.000000e+00
+Values at (8, 1) are close to 0. Diff: 0.000000e+00
+Values at (8, 2): Result_seq = 3.574568e+00, Result_parallel = 3.574568e+00, Diff = 0.000000e+00
+Values at (8, 2) are close to 0. Diff: 0.000000e+00
+Values at (8, 3): Result_seq = -9.030169e+00, Result_parallel = -9.030169e+00, Diff = 0.000000e+00
+Values at (8, 3) are close to 0. Diff: 0.000000e+00
+Values at (8, 4): Result_seq = 2.125469e+00, Result_parallel = 2.125469e+00, Diff = 0.000000e+00
+Values at (8, 4) are close to 0. Diff: 0.000000e+00
+Values at (8, 5): Result_seq = -5.967553e+00, Result_parallel = -5.967553e+00, Diff = 0.000000e+00
+Values at (8, 5) are close to 0. Diff: 0.000000e+00
+Values at (8, 6): Result_seq = -2.172568e+00, Result_parallel = -2.172568e+00, Diff = 0.000000e+00
+Values at (8, 6) are close to 0. Diff: 0.000000e+00
+Values at (8, 7): Result_seq = 2.315545e+00, Result_parallel = 2.315545e+00, Diff = 0.000000e+00
+Values at (8, 7) are close to 0. Diff: 0.000000e+00
+Values at (8, 8): Result_seq = 5.542485e+00, Result_parallel = 5.542485e+00, Diff = 0.000000e+00
+Values at (8, 8) are close to 0. Diff: 0.000000e+00
+Values at (8, 9): Result_seq = -7.170783e+00, Result_parallel = -7.170783e+00, Diff = 0.000000e+00
+Values at (8, 9) are close to 0. Diff: 0.000000e+00
+Values at (9, 0): Result_seq = -3.184557e+00, Result_parallel = -3.184557e+00, Diff = 0.000000e+00
+Values at (9, 0) are close to 0. Diff: 0.000000e+00
+Values at (9, 1): Result_seq = 6.355876e+00, Result_parallel = 6.355876e+00, Diff = 0.000000e+00
+Values at (9, 1) are close to 0. Diff: 0.000000e+00
+Values at (9, 2): Result_seq = 4.013339e+00, Result_parallel = 4.013339e+00, Diff = 0.000000e+00
+Values at (9, 2) are close to 0. Diff: 0.000000e+00
+Values at (9, 3): Result_seq = 6.872258e+00, Result_parallel = 6.872258e+00, Diff = 0.000000e+00
+Values at (9, 3) are close to 0. Diff: 0.000000e+00
+Values at (9, 4): Result_seq = -2.029179e+00, Result_parallel = -2.029179e+00, Diff = 0.000000e+00
+Values at (9, 4) are close to 0. Diff: 0.000000e+00
+Values at (9, 5): Result_seq = -6.330080e-01, Result_parallel = -6.330080e-01, Diff = 0.000000e+00
+Values at (9, 5) are close to 0. Diff: 0.000000e+00
+Values at (9, 6): Result_seq = -2.419679e+00, Result_parallel = -2.419679e+00, Diff = 0.000000e+00
+Values at (9, 6) are close to 0. Diff: 0.000000e+00
+Values at (9, 7): Result_seq = -2.477614e+00, Result_parallel = -2.477614e+00, Diff = 0.000000e+00
+Values at (9, 7) are close to 0. Diff: 0.000000e+00
+Values at (9, 8): Result_seq = -1.174616e+01, Result_parallel = -1.174616e+01, Diff = 0.000000e+00
+Values at (9, 8) are close to 0. Diff: 0.000000e+00
+Values at (9, 9): Result_seq = -2.196849e+00, Result_parallel = -2.196849e+00, Diff = 0.000000e+00
+Values at (9, 9) are close to 0. Diff: 0.000000e+00
+Total values checked: 100, close to 0 (positive check) are: 100
