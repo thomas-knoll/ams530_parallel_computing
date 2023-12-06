@@ -1,0 +1,27 @@
+Sequential calculation:
+Time spent for calculating the forces of 1024 particles is 0.008225 seconds. From rank: 0, of 20 processors
+Starting  parallel calculation
+There are 51 particles per process and 4 residual particles. 
+ The index of the first resudial particle is 1019
+Parallel calculation:
+Time spent for calculating the forces of 1024 particles is 0.000478 seconds. From rank: 0, of 20 processors
+Hello from 0 of 20 processors.
+Hello from 1 of 20 processors.
+Hello from 2 of 20 processors.
+Hello from 3 of 20 processors.
+Hello from 4 of 20 processors.
+Hello from 5 of 20 processors.
+Hello from 6 of 20 processors.
+Hello from 7 of 20 processors.
+Hello from 8 of 20 processors.
+Hello from 9 of 20 processors.
+Hello from 10 of 20 processors.
+Hello from 11 of 20 processors.
+Hello from 12 of 20 processors.
+Hello from 13 of 20 processors.
+Hello from 14 of 20 processors.
+Hello from 15 of 20 processors.
+Hello from 16 of 20 processors.
+Hello from 17 of 20 processors.
+Hello from 18 of 20 processors.
+Hello from 19 of 20 processors.
